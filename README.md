@@ -6,7 +6,7 @@
 Get the current weather forecasts now!
 
 <h3 align="center">
-<img src="screenshots.jpg" alt="Screenshot of Weather app" />
+<img src="screenshots.png" alt="Screenshot of Weather app" />
 </h3>
 
 ## Compatibility
